@@ -12,5 +12,7 @@
             "email": "marcin.witas72@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.3"
+    }
 }
