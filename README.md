@@ -8,7 +8,6 @@ Created for the recruitment process at Grupa DDom company.
 - Composer 2.7 or newer
 
 ## Installation
-(the app has no required libraries, just to ensure system compatibility)
 
 1. Clone the repository
 ```sh
@@ -16,6 +15,8 @@ gh repo clone Wojtazzzz/php-user-validator && cd php-user-validator
 ```
 
 2. Install app
+\
+*(no required libraries, just to ensure system compatibility)*
 ```sh
 composer install 
 ```
